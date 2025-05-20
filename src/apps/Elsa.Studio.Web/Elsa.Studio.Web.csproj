@@ -13,6 +13,7 @@
     <ItemGroup>
         <PackageReference Include="Elsa.Studio" />
         <PackageReference Include="Elsa.Studio.Login.BlazorWasm" />
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" />
     </ItemGroup>
 

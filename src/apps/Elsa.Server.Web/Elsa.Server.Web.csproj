@@ -58,6 +58,7 @@
         <PackageReference Include="DistributedLock.Redis" />
         <PackageReference Include="FluentStorage.Azure.Blobs" />
         <PackageReference Include="Hangfire.PostgreSql" />
+        <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" />
         <PackageReference Include="OpenTelemetry" />
         <PackageReference Include="OpenTelemetry.Exporter.Console" />
         <PackageReference Include="OpenTelemetry.Exporter.OpenTelemetryProtocol" />
